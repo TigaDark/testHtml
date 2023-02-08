@@ -6,7 +6,7 @@
 
    登录我的后，前往“我的”或“我的”
 
-   
+   <img src="image-20230208155420753.png" alt="image-20230208155420753" style="zoom:200%;" />
 
 ​                             <font color=gray> 我的</font>                                                           <font color=gray> 我的</font>  
 
